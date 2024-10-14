@@ -15,8 +15,6 @@ import goal3 from "@/asset/img/goal3.png";
 import goal4 from "@/asset/img/goal4.png";
 import arrow from "@/asset/img/next icon.png";
 import bgni from "@/asset/img/bgni.png";
-import slider from "@/asset/img/home.png";
-import slider2 from "@/asset/img/home2.png";
 import Header from "./component/header";
 
 useEmblaCarousel.globalOptions = { loop: true };
